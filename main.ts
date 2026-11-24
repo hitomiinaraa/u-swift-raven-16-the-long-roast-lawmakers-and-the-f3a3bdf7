@@ -1,3 +1,4 @@
+// One sentence, one roast — the entry is the whole program.
 import { mkdirSync, writeFileSync } from "node:fs";
 
 const entry =
